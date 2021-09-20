@@ -1,0 +1,5 @@
+D:\WorkSpace\GitHub\XCReceiptPrinter\XCReceiptPrinter\bin\Debug\XCReceiptPrinter.dll
+D:\WorkSpace\GitHub\XCReceiptPrinter\XCReceiptPrinter\bin\Debug\XCReceiptPrinter.pdb
+D:\WorkSpace\GitHub\XCReceiptPrinter\XCReceiptPrinter\obj\Debug\XCReceiptPrinter.csproj.CoreCompileInputs.cache
+D:\WorkSpace\GitHub\XCReceiptPrinter\XCReceiptPrinter\obj\Debug\XCReceiptPrinter.dll
+D:\WorkSpace\GitHub\XCReceiptPrinter\XCReceiptPrinter\obj\Debug\XCReceiptPrinter.pdb
